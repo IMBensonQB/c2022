@@ -20,9 +20,9 @@
 | 主題         | 北區                                      | 竹區 | 影片 |
 | ------------ | ----------------------------------------- | ---- | ---- |
 |      |      |      |      |
-|      |      |      |      |
+|  迴圈與控制結構    |   [Week2-2 loops][bc-loops]   |      |      |
 
-
+[bc-loops]:https://drive.google.com/file/d/1gtblxsu0yTGsuYHKLT2WsHydld1B6IpH/view?usp=sharing
 
 ## 第三週 03/19
 
