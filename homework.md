@@ -6,7 +6,7 @@
 | :--: | :--: | :----------------------------------------------------- | :--------------------------------------------------------------- | :------- | :------------------------------- |
 | 0305 |  01  |     [287 - 喵][neoj-287] <br>  [289 - 福祿猴的反敗][neoj-289]  |     [803 - 分數統計][neoj-803]<br>[6002 - 小普敲鍵盤][neoj-6002]    |          |      |
 | 0312 |  02  |        |    [6005 - 排序了嗎？][neoj-6005]      |          |      |
-| 0319 |  03  |          |          |          |      |
+| 0319 |  03  |      [893 - 數字塔][neoj-893]     |         |   [[北C]迴圈補充練習題單][more-loop-bc]        |      |
 | 0326 |  04  |          |          |          |      |
 | 0402 |  05  | 清明節放假 |          |          |      |
 | 0409 |  06  |          |          |          |      |
@@ -27,3 +27,5 @@
 [neoj-6005]: https://neoj.sprout.tw/problem/6005/
 [neoj-289]: https://neoj.sprout.tw/problem/289/
 [neoj-6002]: https://neoj.sprout.tw/problem/6002/
+[neoj-893]:https://neoj.sprout.tw/problem/893/
+[more-loop-bc]:https://drive.google.com/file/d/1gtblxsu0yTGsuYHKLT2WsHydld1B6IpH/view?usp=sharing
